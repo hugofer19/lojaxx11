@@ -1,7 +1,7 @@
 class Database:
 
     def __init__(self):
-        self.Host = 'ec2-52-209-134-160.eu-west-1.compute.amazonaws.com'
-        self.Database = 'dav5i22li2jrrj'
-        self.User = 'itmuvbfzedxqkj'
-        self.Password = 'cdbd5af7afc2a1330589b97900c5e29dbf9e334a666667fb5a7ab5f42e349f00'
+        self.Host = 'ec2-54-220-195-236.eu-west-1.compute.amazonaws.com'
+        self.Database = 'd4p8309r945arl'
+        self.User = 'xfsyekqjwqrntj'
+        self.Password = '23bc456e741efc097e6679c6855b15e32764833580138bef5b42a3ce47ff1cfc'
