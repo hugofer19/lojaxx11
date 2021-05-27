@@ -5,7 +5,7 @@ from artigos import Artigos
 app = Flask(__name__)
 usr = User()
 art = Artigos()
-
+#test
 
 @app.route('/inserirA', methods=['GET', 'POST'])
 def inserirA():
